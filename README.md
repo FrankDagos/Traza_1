@@ -10,3 +10,9 @@ Proyecto de práctica para la materia **Desarrollo de Software** (UTN - FRM).
 - Entidades: Empresa, Sucursal, Domicilio, Localidad, Provincia, País  
 - Repositorio genérico en memoria (`InMemoryRepository`)  
 - Relaciones implementadas con **Lombok**
+
+---
+
+**Diagrama del proyecto**
+
+![Diagrama](./DiagramaTraza1.png)
