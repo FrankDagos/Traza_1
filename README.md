@@ -1,6 +1,6 @@
 # Traza 1 - UTN
-#Franco D'Agostino
-#Legajo 47761
+# Franco D'Agostino
+# Legajo 47761
 
 Proyecto de práctica para la materia **Desarrollo de Software** (UTN - FRM).
 
